@@ -68,7 +68,7 @@ export const DATA = {
         navbar: false,
       },
     },
-  },
+  }, 
 
   work: [
     {
