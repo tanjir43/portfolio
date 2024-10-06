@@ -88,7 +88,7 @@ export const DATA = {
       badges: [],
       href: "https://www.rsaintech.net/",
       location: "On Site",
-      title: "Junio Software Engineer",
+      title: "Junior Software Engineer",
       logoUrl: "/rsa.png",
       start: "September 2021",
       end: "November 2022",
