@@ -174,9 +174,6 @@ export default function Page() {
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
                   I like building things
                 </h2>
-                {/* <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I secured 7th place in the Cybersecurity Contest at City University, demonstrating my proficiency and commitment in tackling complex challenges in digital security.
-                </p> */}
               </div>
             </div>
           </BlurFade>

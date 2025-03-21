@@ -78,10 +78,22 @@ export const DATA = {
       location: "Remote",
       title: "Software Engineer",
       logoUrl: "/spondon.png",
-      start: "December 2022",
+      start: "December 2023",
       end: "Present",
       description:
-        "Design, develop, and optimize software applications using C#, PHP, React, Next.js, Vue, Python, and Java. Build efficient algorithms, implement database structures, and optimize SQL queries. Perform unit and integration testing, collaborate with cross-functional teams, and follow Agile methodologies. Ensure security against DDoS, SQL injection, and XSS. Use Docker, Kubernetes, and CI/CD pipelines, and deploy applications on cloud platforms like AWS, Azure, and cPanel.",
+        "Design, develop, and optimize software applications using C#, PHP,Laravel, React. Build efficient algorithms, implement database structures, and optimize SQL queries. Perform unit and integration testing, collaborate with cross-functional teams, and follow Agile methodologies. Ensure security against DDoS, SQL injection, and XSS. Use Docker, Kubernetes, and CI/CD pipelines, and deploy applications on cloud platforms like AWS, Digital Ocean and cPanel.",
+    },
+    {
+      company: "Retina Soft",
+      badges: [],
+      href: "https://retinasoft.com.bd/",
+      location: "On Site",
+      title: "Junior Software Engineer",
+      logoUrl: "/fv.png",
+      start: "March 2023",
+      end: "November 2023",
+      description:
+        "Design, develop, and test software applications using  PHP, React,. Implement scalable algorithms, optimize SQL queries, and manage databases. Write unit and integration tests, collaborate in Agile teams, and use Git for version control. Ensure security against DDoS, SQL injection, and XSS.",
     },
     {
       company: "RSA Info Tech",
@@ -90,10 +102,10 @@ export const DATA = {
       location: "On Site",
       title: "Junior Software Engineer",
       logoUrl: "/rsa.png",
-      start: "September 2021",
-      end: "November 2022",
+      start: "June 2022",
+      end: "February 2023",
       description:
-        "Design, develop, and test software applications using C#, PHP, React, Next.js, Vue, and Java. Implement scalable algorithms, optimize SQL queries, and manage databases. Write unit and integration tests, collaborate in Agile teams, and use Git for version control. Ensure security against DDoS, SQL injection, and XSS. Utilize Docker, Kubernetes, and CI/CD pipelines for deployment on AWS, Azure, and cPanel. Stay updated on industry trends.",
+        "Design, develop, and test software applications using C#, PHP. Implement scalable algorithms, optimize SQL queries, and manage databases.",
     },
   ],
   education: [
@@ -210,6 +222,23 @@ export const DATA = {
     },
   ],
   hackathons: [
+    {
+      title: "Druckland",
+      dates: "September 2024 - February 25, 2025",
+      location: "Remote",
+      description:
+        "Develop a B2C Ecommerce Software Based on Printing Industry  using React Admin Panel, Frontend Next js, Backend Laravel.",
+      image:
+        "/druckland.svg",
+      mlh: "",
+      links: [
+        {
+          title: "Site",
+          icon: <Icons.globe className="h-4 w-4" />,
+          href: "https://frontend.druckland.de/",
+        },
+      ],
+    },
     {
       title: "Eventcomm",
       dates: "February 23 - June 01, 2024",
