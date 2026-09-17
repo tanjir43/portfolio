@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Crafting Innovation, Coding Excellence: Where Imagination Meets Execution.",
   summary:
-    "Software engineer with 4+ years building production SaaS for education and media. I take features from the first conversation with a client through to the server they run on \u2014 specification, data model, API, interface, tests, release, and the alerting that tells us when something breaks. Most recently I have been the lead contributor on a multi-tenant education platform built from 18 Go microservices and a Next.js frontend, where I own grading and academic records, enrollment and billing, and the production infrastructure.",
+    "As a seasoned software engineer, I thrive on translating creative concepts into robust code. With a passion for innovation and a commitment to coding excellence, I specialize in crafting efficient and scalable solutions. My diverse skill set, coupled with a keen eye for detail, allows me to contribute effectively to complex projects and drive technological advancement. Embracing challenges as opportunities for growth, I am dedicated to pushing the boundaries of what technology can achieve.",
   avatarUrl: "/tanjir.jpg",
   skills: [
     "Go",
